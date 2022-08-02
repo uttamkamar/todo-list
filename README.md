@@ -1,4 +1,4 @@
-<h1 align="center">Todo App  📝</h1>  [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/react)
+<h1 align="center">Todo App  📝</h1> 
 <p align="center">
   🖊️ A simple Todo App built using <a href="https://ejs.co/">EJS</a> and <a href="https://www.mongodb.com/">MongoDB</a>
 </p>
